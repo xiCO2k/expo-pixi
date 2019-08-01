@@ -55,6 +55,7 @@
   },
   "dependencies": {
     "@expo/browser-polyfill": "0.0.1-alpha.3",
+    "expo-gl": "~6.0.0",
     "expo-asset-utils": "1.1.0",
     "fbemitter": "2.1.1",
     "gl-matrix": "^3.0.0",
@@ -63,9 +64,6 @@
     "pixi-spine": "^1.5.11",
     "pixi.js": "^4.7.0",
     "url": "^0.11.0"
-  },
-  "peerDependencies": {
-    "expo-gl": "~6.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.1.1",
